@@ -1,0 +1,16 @@
+{
+  "name": "yolo-ship-detection",
+  "version": "1.0.0",
+  "description": "Eastern Connecticut State University - Computer Science - Senior Research 2024",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.6.1"
+  }
+}
