@@ -3,3 +3,5 @@ node_modules/
 src/yolo/yolov3.weights
 src/yolo/yolov3.cfg
 src/yolo/paths.py
+yolov8n.pt
+runs/
