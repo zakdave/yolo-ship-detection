@@ -35,8 +35,7 @@ for key in data.keys():
                     break
         #add to detections array
         detections[key].append(detection)
-        
+
 #close file
 f.close()
-print(detections)
 
