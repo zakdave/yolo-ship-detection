@@ -19,7 +19,7 @@ for key in data.keys():
     #run recognition on data set
     for img in data[key]:
 
-        #initilaize detection object
+        #initilaize detection output
         detection = {}
         detection["url"] = img
         detection["detected"] = False
